@@ -49,6 +49,9 @@ DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,xmsl.org
+DOMAIN-SUFFIX,makima.online
+DOMAIN-SUFFIX,zox.show
+DOMAIN-SUFFIX,bangumi.ca
 DOMAIN-KEYWORD,emby
 PROCESS-NAME,Emby.exe
 PROCESS-NAME,Emby.Theater.exe
@@ -61,4 +64,3 @@ PROCESS-NAME,Hills
 PROCESS-NAME,com.mb.android
 PROCESS-NAME,com.hush.yamby
 PROCESS-NAME,com.mountains.hills
-DOMAIN-SUFFIX,makima.online
