@@ -55,6 +55,7 @@ DOMAIN,entry.zox.show
 DOMAIN,cf.zox.show
 DOMAIN-SUFFIX,bangumi.ca
 DOMAIN-SUFFIX,biliblili.uk
+DOMAIN,kessoku-bando.biliblili.uk
 DOMAIN-KEYWORD,emby
 PROCESS-NAME,Emby.exe
 PROCESS-NAME,Emby.Theater.exe
